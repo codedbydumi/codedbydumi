@@ -72,7 +72,7 @@ I thrive at the intersection of **logic and creativity**, combining technical sk
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbydumi&theme=tokyonight&hide_border=true&stroke=58A6FF&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedbydumi&theme=tokyonight&hide_border=true&stroke=58A6FF&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF") />
 </div>
 
 <div align="center">
